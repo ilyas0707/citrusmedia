@@ -4,10 +4,10 @@ import { BrowserRouter as Router } from "react-router-dom"
 import { HashLink as Link } from 'react-router-hash-link'
 import Container from "./../../App.module.css"
 import Citrus from "./../../assets/citrus.png"
-import Mail from "./../../assets/mail.svg"
-import Phone from "./../../assets/phone.svg"
-import Whatsapp from "./../../assets/whatsapp.svg"
-import Instagram from "./../../assets/instagram.svg"
+import Mail from "./../../assets/mail.png"
+import Phone from "./../../assets/phone.png"
+import Whatsapp from "./../../assets/whatsapp.png"
+import Instagram from "./../../assets/instagram.png"
 
 const Footer = () => {
     const items = [
